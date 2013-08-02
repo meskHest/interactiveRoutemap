@@ -1,0 +1,5 @@
+C:\Projekt\flightMap\flightMap\bin\flightMap.dll
+C:\Projekt\flightMap\flightMap\bin\flightMap.pdb
+C:\Projekt\flightMap\flightMap\obj\Debug\flightMap.csprojResolveAssemblyReference.cache
+C:\Projekt\flightMap\flightMap\obj\Debug\flightMap.dll
+C:\Projekt\flightMap\flightMap\obj\Debug\flightMap.pdb

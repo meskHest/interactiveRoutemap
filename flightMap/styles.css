@@ -1,0 +1,26 @@
+﻿.info-wrapper {
+    font-family: arial;
+    font-size: 11px;
+}
+
+.info-header {
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.clear {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.info-wrapper select {
+    min-width: 80px;
+}
